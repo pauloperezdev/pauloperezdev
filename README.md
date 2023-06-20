@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauloperezdev
 - 👀 I’m interested in PHP, Java, Web Development, Mobile
-- 🌱 I’m currently learning Kodular
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on my interests
 - 📫 How to reach me p l m perez at gmail dot com
 
